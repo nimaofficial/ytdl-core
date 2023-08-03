@@ -236,6 +236,5 @@ Tests are written with [mocha](https://mochajs.org)
 ```bash
 npm test
 ```
-#   y t d l - c o r e 
- 
+#   y t d l - c o r e  
  
